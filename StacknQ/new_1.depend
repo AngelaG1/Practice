@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1547521398 source:/media/angela/F: Class/C/cpp/new_1/main.cpp
+	<iostream>
+
+1547684595 source:/home/angela/Documents/cpp/new_1/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Queue.h"
+	"Stack.h"
+
+1547684427 /home/angela/Documents/cpp/new_1/include/Queue.h
+
+1547684469 source:/home/angela/Documents/cpp/new_1/src/Queue.cpp
+	"Queue.h"
+	<iostream>
+
+1547684582 /home/angela/Documents/cpp/new_1/include/Stack.h
+
+1547684619 source:/home/angela/Documents/cpp/new_1/src/Stack.cpp
+	"Stack.h"
+	<iostream>
+	<bits/stdc++.h>
+
