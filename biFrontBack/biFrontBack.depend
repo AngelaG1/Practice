@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547936040 source:/home/angela/Documents/cpp/biFrontBack/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
